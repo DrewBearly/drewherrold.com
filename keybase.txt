@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dherrold
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://drewherrold.com
+  * I am dherrold (https://keybase.io/dherrold) on keybase.
+  * I have a public key with fingerprint 07F4 6F35 C128 4082 B558  1F59 1D1F 6CD5 8507 117F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101eeb31f9d6dc3d2ad1a9d22b35bc7a636dd2f2b003ab556d33c18a151a05cae6e0a",
+            "fingerprint": "07f46f35c1284082b5581f591d1f6cd58507117f",
+            "host": "keybase.io",
+            "key_id": "1d1f6cd58507117f",
+            "kid": "0101eeb31f9d6dc3d2ad1a9d22b35bc7a636dd2f2b003ab556d33c18a151a05cae6e0a",
+            "uid": "75bbfd8870f5fff897b566a1cc59c919",
+            "username": "dherrold"
+        },
+        "revoke": {
+            "sig_ids": [
+                "50b72279dbe636b7318d9ba9e65b3592029f02117c715d3fb300dfd6770e81740f"
+            ]
+        },
+        "service": {
+            "hostname": "drewherrold.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1488133215,
+    "expire_in": 157680000,
+    "prev": "bb98ec6e4b9c0b544105d159227b3c025f1fc8db20d139b4bccaf3978d8e7f34",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMJvAnicrZJdbBVFFMdvKzR4g9gLEUrqBxnxo6GWmZ2dnZlrizGCMSbaFw0kbbnO
+572blrvX3e2ttSGkqZYX1EiUCKEQ9AGRJzEiKBohBCykajSEl8IDGE1MFMQiiV84
+28Abj+7LZnf/53d+5+wcv+O2XL5hevrPmdXF/i8aTh+9Nphb99HdpREgIz0MiiOg
+38zezIA2SVrqDzUoAoggMkZiZLkOtMLaExoJrj1PYiIVFQEOtPasJyHEQhISaIwV
+YgIRJCBRwgQGCtAObFgtm7gWh9U0w1LrBxYThTzmQ+a5QoYs4UgjGyhNGIEUIWpd
+YSVKsgonJ0ViOsLIvXMPpVm9W+T/Z+/BWRwlUlrNGIWWWGsZp5IEgUBKEa444lkw
+MXFVbDAurSsmjqMBDTa2g9jUo36T7TUJy046AcUeQKCknke5lsZ5SIoR01wKbgLi
+9LgHPW6h5wZSFBGNrcQQaqsDSqFhiPrQgj7Hdh3roZqFZ1u62T02QzcEOlS0wanV
+4iiNVDTgPlbStJYUM7F0uJalh4ws3eCUZFjV7je5irqJkzCqgiJySZWGGRj5jCGM
+PUTagXmpFsamFGYJQgMG3ZX1MXWHlJIzowLjS66gJL6PINHIjeVRiRX0iEVWMS09
+qBHm0pdKCYs5ZZoZarEPsslerEaO7aCpKDumW15VpIOxARuPfdk7J9eQzzXNbczO
+by5/e/PNU/3ywLzc2PBjr/zyyMGWlerdNyZX7Hhq+sGu5g/vfXLFuvO7vv90ZW/+
+yOXtb87/vFI4JNt2L1y2dWLsr8nmxkXT24b3FQ9v3gHC0Z/u0ufaJsbve3/ZksNb
+1zyRHNj9TPepO83U3z//MXqhq3x14tLcpQ//Y7bfPwoK8Kum/eOPr53sWd/UsvPq
+enpyqLxwW2dH5elN17vmTXX+frC18/XCZ/uOt7Drcza92rZgZ+G3T7Zc/iF4dOah
+1n+/ufZx5ezyD070dffsnRJ8f33VokJj9fRr4uLM/LF7gvq3x45e6t0zuvhK7Ugb
+7vNXMdH9wgNvV9IFB9478fWWX587+fz4mXDzle/OlFtHKkvf+jH/zpJnTw3+Bzs7
+WUE=
+=AlhL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dherrold
+
+==================================================================
