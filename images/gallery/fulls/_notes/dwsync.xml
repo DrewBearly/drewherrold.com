@@ -6,4 +6,10 @@
 <file name="pic05.jpg" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068900440000000" remote="131068900440000000" Dst="2" />
 <file name="pic03.jpg" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068900490000000" remote="131068900490000000" Dst="2" />
 <file name="pic01.jpg" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068900550000000" remote="131068900550000000" Dst="2" />
+<file name="pic06.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900410000000" remote="131510095520000000" Dst="2" />
+<file name="pic05.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900440000000" remote="131510095520000000" Dst="2" />
+<file name="pic04.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900470000000" remote="131510095520000000" Dst="2" />
+<file name="pic03.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900490000000" remote="131510095530000000" Dst="2" />
+<file name="pic02.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900600000000" remote="131510095530000000" Dst="2" />
+<file name="pic01.jpg" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068900550000000" remote="131510095530000000" Dst="2" />
 </dwsync>

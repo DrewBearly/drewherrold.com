@@ -7,4 +7,11 @@
 <file name="_footer.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068904650000000" remote="131068904650000000" Dst="2" />
 <file name="_header.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068904620000000" remote="131068904620000000" Dst="2" />
 <file name="_wrapper.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068904500000000" remote="131068904500000000" Dst="2" />
+<file name="_wrapper.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904500000000" remote="131510095800000000" Dst="2" />
+<file name="_navPanel.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904530000000" remote="131510095810000000" Dst="2" />
+<file name="_menu.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904560000000" remote="131510095810000000" Dst="2" />
+<file name="_main.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904590000000" remote="131510095810000000" Dst="2" />
+<file name="_header.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904620000000" remote="131510095810000000" Dst="2" />
+<file name="_footer.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904650000000" remote="131510095820000000" Dst="2" />
+<file name="_banner.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904670000000" remote="131510095820000000" Dst="2" />
 </dwsync>

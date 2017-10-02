@@ -4,4 +4,10 @@
 <file name="ie9.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068903910000000" remote="131068903910000000" Dst="2" />
 <file name="ie8.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068903930000000" remote="131068903930000000" Dst="2" />
 <file name="main.scss" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068903880000000" remote="131068903880000000" Dst="2" />
+<file name="noscript.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068903850000000" remote="131510095770000000" Dst="2" />
+<file name="noscript.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131485096443264813" remote="131510095780000000" Dst="2" />
+<file name="main.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068903880000000" remote="131510095780000000" Dst="2" />
+<file name="ie9.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068903910000000" remote="131510095780000000" Dst="2" />
+<file name="ie9.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131485096446027166" remote="131510095780000000" Dst="2" />
+<file name="ie8.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068903930000000" remote="131510095780000000" Dst="2" />
 </dwsync>
