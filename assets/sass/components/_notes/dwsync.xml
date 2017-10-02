@@ -28,4 +28,18 @@
 <file name="_features.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904950000000" remote="131510095850000000" Dst="2" />
 <file name="_button.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904930000000" remote="131510095850000000" Dst="2" />
 <file name="_box.scss" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068904900000000" remote="131510095850000000" Dst="2" />
+<file name="_box.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068904900000000" remote="131514398980000000" Dst="2" />
+<file name="_button.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068904930000000" remote="131514398990000000" Dst="2" />
+<file name="_features.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068904950000000" remote="131514398990000000" Dst="2" />
+<file name="_form.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068904980000000" remote="131514398990000000" Dst="2" />
+<file name="_icon.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905010000000" remote="131514398990000000" Dst="2" />
+<file name="_image.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905040000000" remote="131514399000000000" Dst="2" />
+<file name="_list.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905070000000" remote="131514399000000000" Dst="2" />
+<file name="_post.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905170000000" remote="131514399000000000" Dst="2" />
+<file name="_posts.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905210000000" remote="131514399000000000" Dst="2" />
+<file name="_section.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905230000000" remote="131514399000000000" Dst="2" />
+<file name="_spotlight.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905260000000" remote="131514399010000000" Dst="2" />
+<file name="_table.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905290000000" remote="131514399010000000" Dst="2" />
+<file name="_tiles.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905320000000" remote="131514399010000000" Dst="2" />
+<file name="_wrapper.scss" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068905380000000" remote="131514399010000000" Dst="2" />
 </dwsync>
