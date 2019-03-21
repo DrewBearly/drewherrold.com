@@ -4,4 +4,12 @@
 <file name="PIE.htc" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068906360000000" remote="131068906360000000" Dst="2" />
 <file name="respond.min.js" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068906610000000" remote="131068906610000000" Dst="2" />
 <file name="html5shiv.js" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068906340000000" remote="131068906340000000" Dst="2" />
+<file name="respond.min.js" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068906610000000" remote="131510095880000000" Dst="2" />
+<file name="PIE.htc" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068906360000000" remote="131510095890000000" Dst="2" />
+<file name="html5shiv.js" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068906340000000" remote="131510095890000000" Dst="2" />
+<file name="backgroundsize.min.htc" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068906310000000" remote="131510095890000000" Dst="2" />
+<file name="backgroundsize.min.htc" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068906310000000" remote="131514398930000000" Dst="2" />
+<file name="html5shiv.js" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068906340000000" remote="131514398940000000" Dst="2" />
+<file name="PIE.htc" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068906360000000" remote="131514398940000000" Dst="2" />
+<file name="respond.min.js" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068906610000000" remote="131514398940000000" Dst="2" />
 </dwsync>

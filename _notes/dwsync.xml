@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="aboutsite.html" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068895110000000" remote="131068895110000000" Dst="2" />
-<file name="projects.html" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131326016990000000" remote="131326016990000000" Dst="2" />
 <file name="placeholder.html" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068895050000000" remote="131068895050000000" Dst="2" />
 <file name="index.html" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131326023060000000" remote="131326023060000000" Dst="2" />
 <file name="keybase.txt" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131326032450000000" remote="131326032450000000" Dst="2" />
-<file name="personal.html" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131323527930000000" remote="131323527930000000" Dst="2" />
-<file name=".htaccess" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131323611630000000" remote="131323611630000000" Dst="2" />
+<file name="index.html" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131510106194434688" remote="131510106500000000" Dst="2" />
+<file name="placeholder.html" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131510093308112708" remote="131510095400000000" Dst="2" />
+<file name="keybase.txt" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131326032450000000" remote="131510095410000000" Dst="2" />
+<file name=".gitignore" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131485119454341876" remote="131510095420000000" Dst="2" />
+<file name="placeholder.html" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131514395852530038" remote="131514397760000000" Dst="2" />
+<file name="index.html" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131514396569142152" remote="131514398370000000" Dst="2" />
+<file name=".gitignore" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131485119450000000" remote="131514399520000000" Dst="2" />
+<file name="keybase.txt" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131326032450000000" remote="131514399520000000" Dst="2" />
 </dwsync>

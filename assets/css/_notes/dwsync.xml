@@ -8,4 +8,20 @@
 <file name="ie8.css" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068907400000000" remote="131068907400000000" Dst="2" />
 <file name="ie9.css" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068907370000000" remote="131068907370000000" Dst="2" />
 <file name="placeholder.css" server="ec2-52-43-11-44.us-west-2.compute.amazonaws.com//var/www/html/" local="131068907260000000" remote="131068907260000000" Dst="2" />
+<file name="font-awesome.min.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907420000000" remote="131510065600000000" Dst="2" />
+<file name="main.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131323617640000000" remote="131510065600000000" Dst="2" />
+<file name="noscript.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907320000000" remote="131510065620000000" Dst="2" />
+<file name="projects.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131325972440000000" remote="131510093540000000" Dst="2" />
+<file name="placeholder.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907260000000" remote="131510095920000000" Dst="2" />
+<file name="personal.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907290000000" remote="131510095920000000" Dst="2" />
+<file name="ie9.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907370000000" remote="131510095920000000" Dst="2" />
+<file name="ie8.css" server="52.43.146.196//var/www/drewherrold.com/public_html/" local="131068907400000000" remote="131510095920000000" Dst="2" />
+<file name="font-awesome.min.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907420000000" remote="131514397800000000" Dst="2" />
+<file name="placeholder.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907260000000" remote="131514397770000000" Dst="2" />
+<file name="ie8.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907400000000" remote="131514398890000000" Dst="2" />
+<file name="ie9.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907370000000" remote="131514398890000000" Dst="2" />
+<file name="main.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131323617640000000" remote="131514398900000000" Dst="2" />
+<file name="noscript.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907320000000" remote="131514398900000000" Dst="2" />
+<file name="personal.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131068907290000000" remote="131514398900000000" Dst="2" />
+<file name="projects.css" server="54.148.165.153//var/www/drewherrold.com/public_html/" local="131325972440000000" remote="131514398900000000" Dst="2" />
 </dwsync>
